@@ -1,0 +1,156 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    line-height: 2;
+    color:#66BFBF;
+    font-size: 6.25rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+.intro{
+    width:50%;
+    text-align: center;
+    margin: 100px auto;
+    line-height: 2;
+
+}
+
+.skill-row{
+    padding-top: 50px;
+    line-height: 2;
+    text-align: left; 
+    margin: 100px auto;
+    width: 50%;
+}
+
+p{
+    line-height: 2;
+}
+
+h2{
+    font-weight: normal;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    padding-bottom: 30px;
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link{
+    font-family: 'Montserrat', sans-serif;
+    border-top: 50px;
+    color: #11999E;
+    padding-right: 25px;
+}
+
+.top-container {
+    background-color: black;
+    padding-top: 100px;
+}
+
+.profileimage{
+    padding-top: 50px;
+    width: 20%;
+}
+
+.coding{
+    margin-right: 30px;
+    width:25%;
+    float: left;
+}
+
+.football{
+    margin-left: 30px;
+    width: 25%;
+    float: right;
+}
+
+.middle-container {
+    color:#66BFBF;
+    padding-top: 100px;
+    background-color: black;
+}
+
+.bottom-container {
+
+    padding: 50px 0 25px;
+    background-color: black;
+}
+
+.endline{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: #66BFBF;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+
+}
+
+a:hover {
+    color: #EAF6F6;
+  }
+
+.contact-me{
+    padding-bottom:50px;
+    padding-top: 50px;
+}
+
+.btn{
+    padding-bottom:100px;
+    padding-top: 100px;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 5%;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 1px 1px 3px #66BFBF;
+    -moz-box-shadow: 1px 1px 3px #66BFBF;
+    box-shadow: 1px 1px 3px #66BFBF;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #057878;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #00ffff;
+    text-decoration: none;
+  }
+
+.moon{
+    background-color: black;
+    position:relative;
+    width: 250px;
+    left: 600px;
+    bottom: 450px;
+}
